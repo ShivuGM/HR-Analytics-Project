@@ -18,7 +18,7 @@ This project provides insights into employee attrition, departmental trends, sat
 
 ### 📍 Power BI Dashboard
 
-![Power BI Dashboard](./Documentation/Power-BI_Dashboard.png)
+![Power BI Dashboard](./Documentation/PowerBI_Dashboard.png)
 
 **Key Insights:**
 - **Overall Attrition Rate**: 16%
